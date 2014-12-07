@@ -43,7 +43,7 @@ namespace RitoBot
             Console.Title = "RitoBot";
             Console.SetWindowSize(Console.WindowWidth + 5, Console.WindowHeight);
             Console.Write("====================================================================================\n");
-            Console.Write("VoliBot - MultiQueue | V1.9.0 for LoL 4.20.Bl4Z31T by Maufeat\n");
+            Console.Write("VoliBot - MultiQueue | V1.9.0 testing Thales Ranier\n");
             Console.Write("====================================================================================\n");
             if (!isDonator)
             {
